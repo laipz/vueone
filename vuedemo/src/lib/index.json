@@ -1,0 +1,12 @@
+{
+    "lunbotu" : [
+        {
+            "img" : "../assets/image/lbt1.jpg",
+            "url" :  "@/components/HomeContainer",
+        },  
+        {
+            "img" : "../assets/image/lbt1.jpg",
+            "url" :  "@/components/HomeContainer",
+        }  
+    ],
+}
